@@ -8,6 +8,7 @@ namespace School_20200525
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Learning to use Git!");
+            Console.WriteLine("Added third line");
         }
     }
 }
