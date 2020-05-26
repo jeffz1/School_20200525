@@ -12,6 +12,8 @@ namespace School_20200525
             Console.WriteLine("The boss says no more poems (unless it's about roses");
 
             Console.WriteLine("Student says:\"I wish the command line was easier to use.\" You'll get used to it");
+            
+            // TODO Comment from non-programmer Pointy-Haired Boss Vice President: I liked the Poem. Put it back. Now!
         }
     }
 }
