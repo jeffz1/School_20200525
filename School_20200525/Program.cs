@@ -17,6 +17,8 @@ namespace School_20200525
             Console.WriteLine("The rain in Spain falls mainly on the plain");
 
             Console.WriteLine("I keep making changes, don't I?");
+            
+            Console.WriteLine("My god, it's full of stars");
         }
     }
 }
